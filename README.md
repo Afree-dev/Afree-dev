@@ -1,4 +1,4 @@
-![MasterHead]([https://media.licdn.com/dms/image/D4E16AQHJLVKjfvzwpQ/profile-displaybackgroundimage-shrink_350_1400/0/1714060689852?e=1720656000&v=beta&t=tw5dYkk14A9ohRjimw9z7bZgAReWLH4cQBURn5272co])
+![MasterHead](https://media.licdn.com/dms/image/D4E16AQHJLVKjfvzwpQ/profile-displaybackgroundimage-shrink_350_1400/0/1714060689852?e=1720656000&v=beta&t=tw5dYkk14A9ohRjimw9z7bZgAReWLH4cQBURn5272co)
 <h1 align="center">Hi 👋, I'm Afreedh Hanifa</h1>
 <h3 align="center">I'm a web developer who loves what I do, and I've hands on experience and specialize in creating user-friendly and visually appealing websites using the latest technologies. I'm well-versed in JavaScript, React, and Node.js, which allows me to build dynamic and responsive web applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
